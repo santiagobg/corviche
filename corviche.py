@@ -6,7 +6,7 @@
 # Version 1.0
 
 # If you use this code for your publications please cite:
-# 
+# Bernal et al. 2026, A&A, Volume 707, id.A206, 19 pp.
 ###############################
 
 from __future__ import print_function
@@ -332,9 +332,9 @@ class corviche:
                 synthetic_spec=nel_conv+bel_conv+final_pl+fe_final
         elif agn_type==1:
             if my_z<=0.8:
-                synthetic_spec=stars+nel_conv+final_pl+fe_final
+                synthetic_spec=stars+nel_conv+final_pl
             else:
-                synthetic_spec=nel_conv+final_pl+fe_final
+                synthetic_spec=nel_conv+final_pl
 
 ############################# [O III] winds ################################
         if owinds_fc>0.0 and my_z<=1.08:
