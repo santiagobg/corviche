@@ -1,14 +1,14 @@
 CORVICHE: Is a typical Ecuadorian food that you should try!
 # CORVICHE
 # COde for Reproducing uV-optICal Hybrid AGN spEctra
-###############################
+
 # Author: Santiago Bernal
 # Date: May 2026
 # Version 1.0
-###############################
+
 # If you use this code, please cite: 
 Bernal et al. 2026, A&A, Volume 707, id.A206, 19 pp. 
-##############################
+
 
 # Use
 You must make a copy of all the archives. Then you can add the PATH of the file corviche.py or
