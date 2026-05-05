@@ -3,7 +3,6 @@ CORVICHE: Is a typical Ecuadorian food that you should try!
 # COde for Reproducing uV-optICal Hybrid AGN spEctra
 
 # Author: Santiago Bernal
-# Date: May 2026
 # Version 1.0
 
 # If you use this code, please cite: 
