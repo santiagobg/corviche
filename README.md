@@ -15,7 +15,7 @@ You can use the notebook "synthetic_spectrum_example_V1.ipynb"
 
 # Description
 
-CORVICHE is a code able to generate AGN spectra in a redshift range [0,2.5]. The resulting
+CORVICHE is a code able to generate AGN spectra in the redshift range [0, 2.5]. The resulting
 spectrum has the same resolution and observed wavelength range as an SDSS BOSS spectrum.
 You can constrain the redshift, continuum power-law slope, continuum power-law luminosity,
 BELs intensity, BELs FWHM, NELs FWHM, ratio AGN/total continuum*, signal-to-noise ratio**
